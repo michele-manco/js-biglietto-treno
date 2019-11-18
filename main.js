@@ -8,7 +8,7 @@ if (anni< 18){
   var scontominori = km * 0.168;
   console.log(scontominori);
 }
-else (anni > 65){
+else if (anni > 65) {
   var scontoargento = km * 0.126;
   console.log(scontoargento);
 
